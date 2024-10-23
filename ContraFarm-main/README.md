@@ -36,42 +36,42 @@ Now, the use of Block Chain is that all the data stored and code is in form of s
 # Presentation:
  - [Let's See Presentation](Contra-Farm.pptx)
 # Video Demo & WorkFlow Visualisation:
-1. [Let's See Demo](https://drive.google.com/file/d/1VNZg3CfRYqD4C8oNmh0rO5cMkNJUeJNU/view?usp=sharing) 
+1. [Let's See Demo]() 
 2. [WorkFlow Visualisation](https://www.figma.com/file/gKfVYnFcNWX0DHKrMSGQ5j/ContraFarm?node-id=10%3A291)
 
 # Contributors ✨:
-1. **Team Name:** COMET LABS
+1. **Team Name:** AgriGrowth
 2. **Team Members:**
 <table>
 	<tr>
     <td align="center">
-            <a href="https://github.com/cyber-venom003">
-              <img src="https://avatars.githubusercontent.com/u/58390399?v=4" width="100px" alt=""/><br />
-              <sub><b>Tejas Agarwal</b></sub>
+            <a href="https://github.com/mahendra0930">
+              <img src="/ContraFarm-main/images/bg_2.jpg" width="100px" alt=""/><br />
+              <sub><b>Mahendra Patidar</b></sub>
             </a><br/>
    </td>
    <td align="center">
-            <a href="https://github.com/raghav1701">
-              <img src="https://avatars.githubusercontent.com/u/54554575?v=4" width="100px" alt=""/><br />
-              <sub><b>Raghav Agarwal</b></sub>
+            <a href="https://github.com/mahendra0930">
+              <img src="/ContraFarm-main/images/bg_2.jpg" width="100px" alt=""/><br />
+              <sub><b>Mahendra Ahirwar</b></sub>
             </a><br/>
    </td> 
    <td align="center">
-            <a href="https://github.com/prashantkatiyar9777">
-              <img src="https://avatars.githubusercontent.com/u/55805447?v=4" width="100px" alt=""/><br />
-              <sub><b>Prashant Milan Katiyar</b></sub>
+            <a href="https://github.com/mahendra0930">
+              <img src="/ContraFarm-main/images/bg_2.jpg" width="100px" alt=""/><br />
+              <sub><b>Mantu Meena </b></sub>
             </a><br/>
    </td> 
    <td align="center">
             <a href="https://github.com/koolgax99">
-              <img src="https://avatars.githubusercontent.com/u/55532999?v=4" width="100px" alt=""/><br />
-              <sub><b>Nihar Sanda</b></sub>
+              <img src="/ContraFarm-main/images/bg_2.jpg" width="100px" alt=""/><br />
+              <sub><b>Muskan derwal</b></sub>
             </a><br/>
    </td> 
    <td align="center">
             <a href="https://github.com/achalesh27022003">
-              <img src="https://avatars.githubusercontent.com/u/57138750?v=4" width="100px" alt=""/><br />
-              <sub><b>Achalesh Lakhotiya</b></sub>
+              <img src="/ContraFarm-main/images/bg_2.jpg" width="100px" alt=""/><br />
+              <sub><b>Prachi Kumari</b></sub>
             </a><br/>
    </td> 
 </table>
